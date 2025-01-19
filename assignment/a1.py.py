@@ -1,3 +1,3 @@
-print("harkirat")
-print("harkirat")
-print("harkirat")
+print("aditya")
+print("aditya")
+print("aditya")
